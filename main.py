@@ -18,7 +18,9 @@ set_site_information(
     sources=["Google for the engineering mathematics",
              "LLM: see the conversation file in this repository"],
     planning=["Week 10 and Week 11 worksheets are in this repository"],
+    links=["https://github.com/roberitt-pixel/final-project-ritterbeck"],
 )
+
 set_website_title("Beam Checker")
 
 # Global constants (allowed): approximate yield strengths in MPa
